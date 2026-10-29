@@ -1,0 +1,1 @@
+"""CarbonGuard backend application package."""
